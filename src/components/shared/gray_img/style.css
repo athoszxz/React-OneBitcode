@@ -1,0 +1,10 @@
+.gray-img {
+    width: 30vh;
+    height: 30vh;
+    filter: grayscale(100%);
+}
+
+.color-img {
+    width: 30vh;
+    height: 30vh;
+}
